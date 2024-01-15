@@ -33,20 +33,6 @@ The text for an element goes between its opening and closing tags.
 
 - Commenting allows you to leave messages without affecting the browser display. Comments help other humans to read your code. It also allows you to make code inactive. A comment in HTML starts with <!--, contains any number of lines of text, and ends with -->.
 
-## Nesting elements
-
-Nesting in HTML, refers to the practice of placing elements inside other elements in a hierarchical structure.
-
-This creates a parent-child relationship where the outer (parent) element contains one or more inner (child) elements. Nesting is a fundamental concept that helps organize and structure content within an HTML document.
-
-Nested elements should be placed two spaces further to the right of the element they are nested in. This spacing is called indentation, and it is used to make HTML easier to read.
-
-Nesting is not limited to just one level; you can have multiple levels of nesting, creating a tree-like structure. Proper nesting is crucial for creating well-organized and semantically meaningful HTML documents. It helps browsers interpret the content correctly and makes the code more readable and maintainable.
-
-- HTML5 has some elements that identify different content areas. These elements make your HTML easier to read and help with Search Engine Optimization (SEO) and accessibility.
-
-- Semantic elements like `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<aside>`, and `<footer>` are introduced in HTML5 to add meaning and structure to the content.
-
 ## Attributes
 
 Attributes contain extra information about the element that you don't want to appear in the actual content.
