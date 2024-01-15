@@ -8,9 +8,12 @@
 
 ### The main parts of our element are as follows:
 
-- The opening tag: This consists of the name of the element (in this case, p), wrapped in opening and closing angle brackets. This states where the element begins or starts to take effect — in this case where the paragraph begins.
-- The closing tag: This is the same as the opening tag, except that it includes a forward slash before the element name. This states where the element ends — in this case where the paragraph ends. Failing to add a closing tag is one of the standard beginner errors and can lead to strange results.
-- The content: This is the content of the element, which in this case, is just text.
+- The opening tag: This consists of the name of the element, wrapped in opening and closing angle brackets. This states where the element begins or starts to take effect.
+
+- The closing tag: This is the same as the opening tag, except that it includes a forward slash before the element name. This states where the element ends. Failing to add a closing tag is one of the standard beginner errors and can lead to strange results.
+
+- The content: This is the content of the element.
+
 - The element: The opening tag, the closing tag, and the content together comprise the element.
 
 HTML elements have opening tags like `<h1>` and closing tags like `</h1>`.
@@ -32,12 +35,17 @@ The text for an element goes between its opening and closing tags.
 
 ## Nesting elements
 
+Nesting in HTML, refers to the practice of placing elements inside other elements in a hierarchical structure.
+
+This creates a parent-child relationship where the outer (parent) element contains one or more inner (child) elements. Nesting is a fundamental concept that helps organize and structure content within an HTML document.
+
+Nested elements should be placed two spaces further to the right of the element they are nested in. This spacing is called indentation, and it is used to make HTML easier to read.
+
+Nesting is not limited to just one level; you can have multiple levels of nesting, creating a tree-like structure. Proper nesting is crucial for creating well-organized and semantically meaningful HTML documents. It helps browsers interpret the content correctly and makes the code more readable and maintainable.
+
 - HTML5 has some elements that identify different content areas. These elements make your HTML easier to read and help with Search Engine Optimization (SEO) and accessibility.
+
 - Semantic elements like `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<aside>`, and `<footer>` are introduced in HTML5 to add meaning and structure to the content.
-
-- Put the h1, h2, comment, and p elements inside the main element. This is called nesting. Nested elements should be placed two spaces further to the right of the element they are nested in. This spacing is called indentation, and it is used to make HTML easier to read.
-
-You can put elements inside other elements too. If we wanted to state that our cat is very grumpy, we could wrap the word "very" in a `<strong>` element, which means that the word is to be strongly emphasized.
 
 ## Attributes
 
