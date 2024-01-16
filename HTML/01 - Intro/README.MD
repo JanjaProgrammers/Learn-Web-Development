@@ -31,7 +31,11 @@ The text for an element goes between its opening and closing tags.
 
 ## Comments
 
-- Commenting allows you to leave messages without affecting the browser display. Comments help other humans to read your code. It also allows you to make code inactive. A comment in HTML starts with <!--, contains any number of lines of text, and ends with -->.
+- Commenting allows you to leave messages without affecting the browser display. Comments help other humans to read your code. It also allows you to make code inactive. A comment in HTML starts with
+
+```
+<!-- contains any number of lines of text, and ends with -->
+```
 
 ## Attributes
 
