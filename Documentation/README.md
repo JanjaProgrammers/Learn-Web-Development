@@ -57,7 +57,7 @@ Ordered
 
 ### Images
 
-![Alt Text]("../Projects/"03 - Drum App"/backgroung.jpg)
+![Alt Text]("js.jpg)
 
 ### Code blocks
 
