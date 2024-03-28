@@ -57,7 +57,7 @@ Ordered
 
 ### Images
 
-![Alt Text]("js.jpg)
+![Alt Text](js.jpg)
 
 ### Code blocks
 
